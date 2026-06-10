@@ -79,4 +79,5 @@ Além de programação, sou fascinada por **Astronomia e Inovações Científica
 <a href="mailto:Aireswork.v@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 ---
