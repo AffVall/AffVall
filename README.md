@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-aires/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Aireswork.v@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AffVall)
+[![Website](https://img.shields.io/badge/-Website-00C7B7?style=flat&logo=netlify&logoColor=white)](https://valeriaairessite.netlify.app/)
 
 </div>
 
